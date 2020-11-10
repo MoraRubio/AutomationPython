@@ -1,0 +1,525 @@
+1605024147607	geckodriver	INFO	Listening on 127.0.0.1:60451
+1605024147613	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehXEDiE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605024157252	Marionette	INFO	Listening on port 45091
+1605024157612	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.falabella.com.co/_next/static/chunks/184f608ccd7e82e13291db6e5b18ee5cebf53e0d.09448f24e7b83a95bf78.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript error: https://www.falabella.com.co/falabella-co/ line 6 > injectedScript, line 7: TypeError: dropWebTracking is null
+JavaScript error: https://www.falabella.com.co/falabella-co/ line 6 > injectedScript, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.falabella.com.co/falabella-co/ line 6 > injectedScript, line 260: TypeError: yx is null
+JavaScript error: https://www.falabella.com.co/falabella-co/ line 6 > injectedScript, line 2: ReferenceError: $ is not defined
+1605024183609	Marionette	INFO	Stopped listening on port 45091
+1605024301109	geckodriver	INFO	Listening on 127.0.0.1:52621
+1605024301114	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRnKEFG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605024305375	Marionette	INFO	Listening on port 42109
+1605024305454	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.adobedtm.com/launch-ENefc886d6d08e45f1bcd6648ffbf43a9e.min.js, line 14: TypeError: _satellite.getVar(...).match(...) is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue, line 352: TypeError: trackingDOM is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 2 column 1 of the JSON data
+1605024340318	Marionette	INFO	Stopped listening on port 42109
+1605024514748	geckodriver	INFO	Listening on 127.0.0.1:32795
+1605024514753	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4UYjGi"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605024519078	Marionette	INFO	Listening on port 43865
+1605024519211	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://assets.adobedtm.com/launch-ENefc886d6d08e45f1bcd6648ffbf43a9e.min.js, line 14: TypeError: _satellite.getVar(...).match(...) is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue, line 352: TypeError: trackingDOM is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1605024803341	geckodriver	INFO	Listening on 127.0.0.1:54597
+1605024803347	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecQcqO6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605024811801	Marionette	INFO	Listening on port 38261
+1605024811904	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://assets.adobedtm.com/launch-ENefc886d6d08e45f1bcd6648ffbf43a9e.min.js, line 14: TypeError: _satellite.getVar(...).match(...) is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue, line 352: TypeError: trackingDOM is null
+JavaScript error: https://www.falabella.com.co/a/fa/static/sdk/newrelicAgent-production.js, line 1696: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+1605024873352	Marionette	INFO	Stopped listening on port 38261
+1605024880770	Marionette	INFO	Stopped listening on port 43865
+1605024971160	geckodriver	INFO	Listening on 127.0.0.1:46737
+1605024971165	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilem5oC9F"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605024975801	Marionette	INFO	Listening on port 46601
+1605024975918	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue, line 352: TypeError: trackingDOM is null
+JavaScript error: https://assets.adobedtm.com/launch-ENefc886d6d08e45f1bcd6648ffbf43a9e.min.js, line 14: TypeError: _satellite.getVar(...).match(...) is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1605025205637	geckodriver	INFO	Listening on 127.0.0.1:43165
+1605025205643	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileki8da0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605025214123	Marionette	INFO	Listening on port 36477
+1605025214199	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://assets.adobedtm.com/launch-ENefc886d6d08e45f1bcd6648ffbf43a9e.min.js, line 14: TypeError: _satellite.getVar(...).match(...) is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue, line 352: TypeError: trackingDOM is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1605025304676	Marionette	INFO	Stopped listening on port 36477
+1605025304993	Marionette	INFO	Stopped listening on port 46601
+1605026199378	geckodriver	INFO	Listening on 127.0.0.1:58103
+1605026199383	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefRvrOj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605026204627	Marionette	INFO	Listening on port 38817
+1605026204731	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.adobedtm.com/launch-ENefc886d6d08e45f1bcd6648ffbf43a9e.min.js, line 14: TypeError: _satellite.getVar(...).match(...) is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue, line 352: TypeError: trackingDOM is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 2 column 1 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 2 column 1 of the JSON data
+1605026259545	Marionette	INFO	Stopped listening on port 38817
+1605026369577	geckodriver	INFO	Listening on 127.0.0.1:44675
+1605026369582	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileg82fBr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605026375282	Marionette	INFO	Listening on port 39123
+1605026375340	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue, line 352: TypeError: trackingDOM is null
+JavaScript error: https://assets.adobedtm.com/launch-ENefc886d6d08e45f1bcd6648ffbf43a9e.min.js, line 14: TypeError: _satellite.getVar(...).match(...) is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1605026459255	Marionette	INFO	Stopped listening on port 39123
+1605026460495	geckodriver	INFO	Listening on 127.0.0.1:53137
+1605026460501	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelE3Apq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605026467431	Marionette	INFO	Listening on port 33061
+1605026467558	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.adobedtm.com/launch-ENefc886d6d08e45f1bcd6648ffbf43a9e.min.js, line 14: TypeError: _satellite.getVar(...).match(...) is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 2 column 1 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 2 column 1 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue, line 352: TypeError: trackingDOM is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+1605026501047	Marionette	INFO	Stopped listening on port 33061
+1605026539874	geckodriver	INFO	Listening on 127.0.0.1:33223
+1605026539879	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesinABj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605026544394	Marionette	INFO	Listening on port 38625
+1605026544523	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.adobedtm.com/launch-ENefc886d6d08e45f1bcd6648ffbf43a9e.min.js, line 14: TypeError: _satellite.getVar(...).match(...) is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue, line 352: TypeError: trackingDOM is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+1605026596063	Marionette	INFO	Stopped listening on port 38625
+1605027023835	geckodriver	INFO	Listening on 127.0.0.1:50531
+1605027023840	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezA0oJT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605027028456	Marionette	INFO	Listening on port 43419
+1605027028575	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.adobedtm.com/launch-ENefc886d6d08e45f1bcd6648ffbf43a9e.min.js, line 14: TypeError: _satellite.getVar(...).match(...) is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue, line 352: TypeError: trackingDOM is null
+JavaScript error: https://www.falabella.com.co/a/fa/static/sdk/newrelicAgent-production.js, line 1696: NS_ERROR_NOT_INITIALIZED: 
+1605027060651	Marionette	INFO	Stopped listening on port 43419
+1605027194610	geckodriver	INFO	Listening on 127.0.0.1:51571
+1605027194614	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRV706D"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605027199094	Marionette	INFO	Listening on port 43969
+1605027199153	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://assets.adobedtm.com/launch-ENefc886d6d08e45f1bcd6648ffbf43a9e.min.js, line 14: TypeError: _satellite.getVar(...).match(...) is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue, line 352: TypeError: trackingDOM is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1605027290068	Marionette	INFO	Stopped listening on port 43969
+1605027292459	geckodriver	INFO	Listening on 127.0.0.1:60225
+1605027292464	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelxvxYK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605027296745	Marionette	INFO	Listening on port 44791
+1605027296806	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://assets.adobedtm.com/launch-ENefc886d6d08e45f1bcd6648ffbf43a9e.min.js, line 14: TypeError: _satellite.getVar(...).match(...) is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue, line 352: TypeError: trackingDOM is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1605027368089	Marionette	INFO	Stopped listening on port 44791
+1605027556883	geckodriver	INFO	Listening on 127.0.0.1:50291
+1605027556888	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePac04G"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605027561190	Marionette	INFO	Listening on port 42893
+1605027561240	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.adobedtm.com/launch-ENefc886d6d08e45f1bcd6648ffbf43a9e.min.js, line 14: TypeError: _satellite.getVar(...).match(...) is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 2 column 1 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 2 column 1 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue, line 352: TypeError: trackingDOM is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+1605027671655	Marionette	INFO	Stopped listening on port 42893
+1605027832913	geckodriver	INFO	Listening on 127.0.0.1:44695
+1605027832918	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZdTx7L"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605027837214	Marionette	INFO	Listening on port 35909
+1605027837277	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.adobedtm.com/launch-ENefc886d6d08e45f1bcd6648ffbf43a9e.min.js, line 14: TypeError: _satellite.getVar(...).match(...) is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue, line 352: TypeError: trackingDOM is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 2 column 1 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 2 column 1 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+1605027878416	geckodriver	INFO	Listening on 127.0.0.1:48469
+1605027878421	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebBmFDw"
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605027886524	Marionette	INFO	Listening on port 46535
+1605027886580	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.adobedtm.com/launch-ENefc886d6d08e45f1bcd6648ffbf43a9e.min.js, line 14: TypeError: _satellite.getVar(...).match(...) is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 2 column 1 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 2 column 1 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue, line 352: TypeError: trackingDOM is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+1605027940661	Marionette	INFO	Stopped listening on port 46535
+1605027943130	Marionette	INFO	Stopped listening on port 35909
+1605028055212	geckodriver	INFO	Listening on 127.0.0.1:35777
+1605028055217	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegnBapL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605028059267	Marionette	INFO	Listening on port 43025
+1605028059372	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://assets.adobedtm.com/launch-ENefc886d6d08e45f1bcd6648ffbf43a9e.min.js, line 14: TypeError: _satellite.getVar(...).match(...) is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue, line 352: TypeError: trackingDOM is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1605028117343	Marionette	INFO	Stopped listening on port 43025
+1605028579585	geckodriver	INFO	Listening on 127.0.0.1:36999
+1605028579591	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilek5cwvK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605028590308	Marionette	INFO	Listening on port 39345
+1605028590359	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.adobedtm.com/launch-ENefc886d6d08e45f1bcd6648ffbf43a9e.min.js, line 14: TypeError: _satellite.getVar(...).match(...) is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 2 column 1 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 2 column 1 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue, line 352: TypeError: trackingDOM is null
+1605028631738	Marionette	INFO	Stopped listening on port 39345
+1605028723595	geckodriver	INFO	Listening on 127.0.0.1:45643
+1605028723602	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevK2jTj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605028727620	Marionette	INFO	Listening on port 35011
+1605028727741	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://assets.adobedtm.com/launch-ENefc886d6d08e45f1bcd6648ffbf43a9e.min.js, line 14: TypeError: _satellite.getVar(...).match(...) is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue, line 352: TypeError: trackingDOM is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 2 column 1 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 2 column 1 of the JSON data
+1605029010526	geckodriver	INFO	Listening on 127.0.0.1:39009
+1605029010901	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRWV8dC"
+ExceptionHandler::GenerateDump cloned child 21043
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+1605029042159	geckodriver	INFO	Listening on 127.0.0.1:55787
+1605029042165	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7YGCHT"
+ExceptionHandler::GenerateDump cloned child 21127
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+1605029090958	geckodriver	INFO	Listening on 127.0.0.1:51627
+1605029090965	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYRbRDx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605029096889	Marionette	INFO	Listening on port 37915
+1605029097012	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue, line 352: TypeError: trackingDOM is null
+1605029161708	Marionette	INFO	Stopped listening on port 37915
+1605030811258	geckodriver	INFO	Listening on 127.0.0.1:53915
+1605030811269	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKhHUa8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605030816200	Marionette	INFO	Listening on port 43495
+1605030816513	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://assets.adobedtm.com/launch-ENefc886d6d08e45f1bcd6648ffbf43a9e.min.js, line 14: TypeError: _satellite.getVar(...).match(...) is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue, line 352: TypeError: trackingDOM is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 2 column 1 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 2 column 1 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+1605031253183	geckodriver	INFO	Listening on 127.0.0.1:41883
+1605031253194	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqf5Huk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605031259688	Marionette	INFO	Listening on port 44213
+1605031259778	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://assets.adobedtm.com/launch-ENefc886d6d08e45f1bcd6648ffbf43a9e.min.js, line 14: TypeError: _satellite.getVar(...).match(...) is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue, line 352: TypeError: trackingDOM is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 2 column 1 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 2 column 1 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+1605031630742	Marionette	INFO	Stopped listening on port 44213
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1605031633689	Marionette	INFO	Stopped listening on port 43495
+1605031636502	Marionette	INFO	Stopped listening on port 35011
+1605031929542	geckodriver	INFO	Listening on 127.0.0.1:48381
+1605031929673	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSzYGiD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605031936927	Marionette	INFO	Listening on port 45963
+1605031937073	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.adobedtm.com/launch-ENefc886d6d08e45f1bcd6648ffbf43a9e.min.js, line 14: TypeError: _satellite.getVar(...).match(...) is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue, line 352: TypeError: trackingDOM is null
+JavaScript error: https://imasdk.googleapis.com/formats/outstream/versioned/prod2/outstream_web_client_20201104_RC00/outstream.min.js, line 441: SecurityError: The operation is insecure.
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+1605032120656	Marionette	INFO	Stopped listening on port 45963
+1605032595861	geckodriver	INFO	Listening on 127.0.0.1:49487
+1605032595870	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilez39b49"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605032600607	Marionette	INFO	Listening on port 40749
+1605032600747	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue, line 352: TypeError: trackingDOM is null
+JavaScript error: https://assets.adobedtm.com/launch-ENefc886d6d08e45f1bcd6648ffbf43a9e.min.js, line 14: TypeError: _satellite.getVar(...).match(...) is null
+JavaScript error: https://js.hsleadflows.net/leadflows.js, line 7: TypeError: e.getResponseHeader(...) is null
+JavaScript error: https://www.falabella.com.co/a/fa/static/sdk/newrelicAgent-production.js, line 1696: NetworkError: A network error occurred.
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+1605032716618	geckodriver	INFO	Listening on 127.0.0.1:40087
+1605032716628	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKDEPAM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605032723512	Marionette	INFO	Listening on port 39303
+1605032723605	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.adobedtm.com/launch-ENefc886d6d08e45f1bcd6648ffbf43a9e.min.js, line 14: TypeError: _satellite.getVar(...).match(...) is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue, line 352: TypeError: trackingDOM is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1605032815411	Marionette	INFO	Stopped listening on port 39303
+1605032817192	Marionette	INFO	Stopped listening on port 40749
+1605034234045	geckodriver	INFO	Listening on 127.0.0.1:46105
+1605034234054	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLLGhGC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605034241366	Marionette	INFO	Listening on port 33645
+1605034241424	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.adobedtm.com/launch-ENefc886d6d08e45f1bcd6648ffbf43a9e.min.js, line 14: TypeError: _satellite.getVar(...).match(...) is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue, line 352: TypeError: trackingDOM is null
+JavaScript warning: https://gzip-resources.aws.alkosto.com/skin/frontend/enterprise/default/js/alkosto-rwd/alkosto-rwd.js?v=0.0.286, line 280: unreachable code after return statement
+JavaScript warning: https://www.alkosto.com/tv/televisores/ver/lg-samsung/60_y_mas_pulgadas/?dir=asc&order=price, line 8793: unreachable code after return statement
+JavaScript warning: https://www.alkosto.com/tv/televisores/ver/lg-samsung/60_y_mas_pulgadas/?dir=asc&order=price, line 8829: unreachable code after return statement
+JavaScript warning: https://www.alkosto.com/tv/televisores/ver/lg-samsung/60_y_mas_pulgadas/?dir=asc&order=price, line 8829: unreachable code after return statement
+JavaScript warning: https://www.alkosto.com/tv/televisores/ver/lg-samsung/60_y_mas_pulgadas/?dir=asc&order=price line 46 > injectedScript, line 42: WebGL context was lost.
+1605034366300	Marionette	INFO	Stopped listening on port 33645
+1605034399348	geckodriver	INFO	Listening on 127.0.0.1:45129
+1605034399355	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1JpYOH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605034404237	Marionette	INFO	Listening on port 35493
+1605034404314	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://gzip-resources.aws.alkosto.com/skin/frontend/enterprise/default/js/alkosto-rwd/alkosto-rwd.js?v=0.0.286, line 280: unreachable code after return statement
+JavaScript warning: https://www.alkosto.com/tv/televisores/ver/lg-samsung/60_y_mas_pulgadas/?dir=asc&order=price, line 8793: unreachable code after return statement
+JavaScript warning: https://www.alkosto.com/tv/televisores/ver/lg-samsung/60_y_mas_pulgadas/?dir=asc&order=price, line 8829: unreachable code after return statement
+JavaScript warning: https://www.alkosto.com/tv/televisores/ver/lg-samsung/60_y_mas_pulgadas/?dir=asc&order=price, line 8829: unreachable code after return statement
+JavaScript warning: https://www.alkosto.com/tv/televisores/ver/lg-samsung/60_y_mas_pulgadas/?dir=asc&order=price line 46 > injectedScript, line 42: WebGL context was lost.
+1605034862649	geckodriver	INFO	Listening on 127.0.0.1:58203
+1605034862659	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUux9Wy"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605034869355	Marionette	INFO	Listening on port 41257
+1605034869500	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.adobedtm.com/launch-ENefc886d6d08e45f1bcd6648ffbf43a9e.min.js, line 14: TypeError: _satellite.getVar(...).match(...) is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue, line 352: TypeError: trackingDOM is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript warning: https://gzip-resources.aws.alkosto.com/skin/frontend/enterprise/default/js/alkosto-rwd/alkosto-rwd.js?v=0.0.286, line 280: unreachable code after return statement
+JavaScript warning: https://www.alkosto.com/tv/televisores/ver/lg-samsung/60_y_mas_pulgadas/?dir=asc&order=price, line 8793: unreachable code after return statement
+JavaScript warning: https://www.alkosto.com/tv/televisores/ver/lg-samsung/60_y_mas_pulgadas/?dir=asc&order=price, line 8829: unreachable code after return statement
+JavaScript warning: https://www.alkosto.com/tv/televisores/ver/lg-samsung/60_y_mas_pulgadas/?dir=asc&order=price, line 8829: unreachable code after return statement
+JavaScript warning: https://www.alkosto.com/tv/televisores/ver/lg-samsung/60_y_mas_pulgadas/?dir=asc&order=price line 46 > injectedScript, line 42: WebGL context was lost.
+1605034960145	Marionette	INFO	Stopped listening on port 41257
+1605034966974	Marionette	INFO	Stopped listening on port 35493
+1605035044742	geckodriver	INFO	Listening on 127.0.0.1:36305
+1605035044753	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMsgklp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605035054904	Marionette	INFO	Listening on port 33421
+1605035055023	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://gzip-resources.aws.alkosto.com/skin/frontend/enterprise/default/js/alkosto-rwd/alkosto-rwd.js?v=0.0.286, line 280: unreachable code after return statement
+JavaScript warning: https://www.alkosto.com/tv/televisores/ver/lg-samsung/60_y_mas_pulgadas/?dir=asc&order=price, line 8793: unreachable code after return statement
+JavaScript warning: https://www.alkosto.com/tv/televisores/ver/lg-samsung/60_y_mas_pulgadas/?dir=asc&order=price, line 8829: unreachable code after return statement
+JavaScript warning: https://www.alkosto.com/tv/televisores/ver/lg-samsung/60_y_mas_pulgadas/?dir=asc&order=price, line 8829: unreachable code after return statement
+JavaScript warning: https://www.alkosto.com/tv/televisores/ver/lg-samsung/60_y_mas_pulgadas/?dir=asc&order=price line 46 > injectedScript, line 42: WebGL context was lost.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1605035708281	geckodriver	INFO	Listening on 127.0.0.1:58879
+1605035708286	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileY7ikcT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605035714278	Marionette	INFO	Listening on port 36861
+1605035714347	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://gzip-resources.aws.alkosto.com/skin/frontend/enterprise/default/js/alkosto-rwd/alkosto-rwd.js?v=0.0.286, line 280: unreachable code after return statement
+JavaScript warning: https://www.alkosto.com/tv/televisores/ver/lg-samsung/60_y_mas_pulgadas/?dir=asc&order=price, line 8793: unreachable code after return statement
+JavaScript warning: https://www.alkosto.com/tv/televisores/ver/lg-samsung/60_y_mas_pulgadas/?dir=asc&order=price, line 8829: unreachable code after return statement
+JavaScript warning: https://www.alkosto.com/tv/televisores/ver/lg-samsung/60_y_mas_pulgadas/?dir=asc&order=price, line 8829: unreachable code after return statement
+JavaScript warning: https://www.alkosto.com/tv/televisores/ver/lg-samsung/60_y_mas_pulgadas/?dir=asc&order=price line 46 > injectedScript, line 42: WebGL context was lost.
+1605036214861	geckodriver	INFO	Listening on 127.0.0.1:35481
+1605036214871	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0Ww5Xn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605036220443	Marionette	INFO	Listening on port 36417
+1605036220547	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.adobedtm.com/launch-ENefc886d6d08e45f1bcd6648ffbf43a9e.min.js, line 14: TypeError: _satellite.getVar(...).match(...) is null
+JavaScript error: https://js.hsleadflows.net/leadflows.js, line 7: TypeError: e.getResponseHeader(...) is null
+JavaScript error: https://www.falabella.com.co/a/fa/static/sdk/newrelicAgent-production.js, line 1696: NetworkError: A network error occurred.
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue, line 352: TypeError: trackingDOM is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript warning: https://gzip-resources.aws.alkosto.com/skin/frontend/enterprise/default/js/alkosto-rwd/alkosto-rwd.js?v=0.0.286, line 280: unreachable code after return statement
+JavaScript warning: https://www.alkosto.com/tv/televisores/ver/lg-samsung/60_y_mas_pulgadas/?dir=asc&order=price, line 8793: unreachable code after return statement
+JavaScript warning: https://www.alkosto.com/tv/televisores/ver/lg-samsung/60_y_mas_pulgadas/?dir=asc&order=price, line 8829: unreachable code after return statement
+JavaScript warning: https://www.alkosto.com/tv/televisores/ver/lg-samsung/60_y_mas_pulgadas/?dir=asc&order=price, line 8829: unreachable code after return statement
+JavaScript warning: https://www.alkosto.com/tv/televisores/ver/lg-samsung/60_y_mas_pulgadas/?dir=asc&order=price line 46 > injectedScript, line 42: WebGL context was lost.
+1605036384415	geckodriver	INFO	Listening on 127.0.0.1:32827
+1605036384425	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7EyL60"
+1605036391835	Marionette	INFO	Stopped listening on port 36861
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605036393095	Marionette	INFO	Listening on port 41807
+1605036393201	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.adobedtm.com/launch-ENefc886d6d08e45f1bcd6648ffbf43a9e.min.js, line 14: TypeError: _satellite.getVar(...).match(...) is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue, line 352: TypeError: trackingDOM is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript warning: https://gzip-resources.aws.alkosto.com/skin/frontend/enterprise/default/js/alkosto-rwd/alkosto-rwd.js?v=0.0.286, line 280: unreachable code after return statement
+JavaScript warning: https://www.alkosto.com/tv/televisores/ver/lg-samsung/60_y_mas_pulgadas/?dir=asc&order=price, line 8793: unreachable code after return statement
+JavaScript warning: https://www.alkosto.com/tv/televisores/ver/lg-samsung/60_y_mas_pulgadas/?dir=asc&order=price, line 8829: unreachable code after return statement
+JavaScript warning: https://www.alkosto.com/tv/televisores/ver/lg-samsung/60_y_mas_pulgadas/?dir=asc&order=price, line 8829: unreachable code after return statement
+JavaScript warning: https://www.alkosto.com/tv/televisores/ver/lg-samsung/60_y_mas_pulgadas/?dir=asc&order=price line 46 > injectedScript, line 42: WebGL context was lost.
+1605036487655	Marionette	INFO	Stopped listening on port 41807
+1605036488866	Marionette	INFO	Stopped listening on port 36417
+1605036691155	geckodriver	INFO	Listening on 127.0.0.1:43733
+1605036691164	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileB8ZYgh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605036696429	Marionette	INFO	Listening on port 42163
+1605036696566	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.adobedtm.com/launch-ENefc886d6d08e45f1bcd6648ffbf43a9e.min.js, line 14: TypeError: _satellite.getVar(...).match(...) is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue, line 352: TypeError: trackingDOM is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue line 1696 > injectedScript, line 3: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 2 column 1 of the JSON data
+JavaScript warning: https://gzip-resources.aws.alkosto.com/skin/frontend/enterprise/default/js/alkosto-rwd/alkosto-rwd.js?v=0.0.286, line 280: unreachable code after return statement
+JavaScript warning: https://www.alkosto.com/tv/televisores/ver/lg-samsung/60_y_mas_pulgadas/?dir=asc&order=price, line 8793: unreachable code after return statement
+JavaScript warning: https://www.alkosto.com/tv/televisores/ver/lg-samsung/60_y_mas_pulgadas/?dir=asc&order=price, line 8829: unreachable code after return statement
+JavaScript warning: https://www.alkosto.com/tv/televisores/ver/lg-samsung/60_y_mas_pulgadas/?dir=asc&order=price, line 8829: unreachable code after return statement
+JavaScript warning: https://www.alkosto.com/tv/televisores/ver/lg-samsung/60_y_mas_pulgadas/?dir=asc&order=price line 46 > injectedScript, line 42: WebGL context was lost.
+1605036880642	geckodriver	INFO	Listening on 127.0.0.1:51341
+1605036880652	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeMlsVt"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605036893081	Marionette	INFO	Listening on port 43341
+1605036893177	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605036895588	Marionette	INFO	Stopped listening on port 42163
+JavaScript warning: https://gzip-resources.aws.alkosto.com/skin/frontend/enterprise/default/js/alkosto-rwd/alkosto-rwd.js?v=0.0.286, line 280: unreachable code after return statement
+JavaScript warning: https://www.alkosto.com/tv/televisores/ver/lg-samsung/60_y_mas_pulgadas/?dir=asc&order=price, line 8793: unreachable code after return statement
+JavaScript warning: https://www.alkosto.com/tv/televisores/ver/lg-samsung/60_y_mas_pulgadas/?dir=asc&order=price, line 8829: unreachable code after return statement
+JavaScript warning: https://www.alkosto.com/tv/televisores/ver/lg-samsung/60_y_mas_pulgadas/?dir=asc&order=price, line 8829: unreachable code after return statement
+JavaScript warning: https://www.alkosto.com/tv/televisores/ver/lg-samsung/60_y_mas_pulgadas/?dir=asc&order=price line 46 > injectedScript, line 42: WebGL context was lost.
+1605037120932	Marionette	INFO	Stopped listening on port 43341
+1605037144445	geckodriver	INFO	Listening on 127.0.0.1:46049
+1605037144455	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJvnlPg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605037149977	Marionette	INFO	Listening on port 41343
+1605037150119	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.adobedtm.com/launch-ENefc886d6d08e45f1bcd6648ffbf43a9e.min.js, line 14: TypeError: _satellite.getVar(...).match(...) is null
+JavaScript error: https://www.falabella.com.co/falabella-co/category/cat1360967/Televisores?sortBy=derived.price.search%2Casc&f.product.attribute.Tama%C3%B1o_de_la_pantalla=65+pulgadas%3A%3A70+pulgadas&f.product.brandName=lg%3A%3Asamsung&facetSelected=true%2Ctrue%2Ctrue%2Ctrue, line 352: TypeError: trackingDOM is null
+JavaScript warning: https://gzip-resources.aws.alkosto.com/skin/frontend/enterprise/default/js/alkosto-rwd/alkosto-rwd.js?v=0.0.286, line 280: unreachable code after return statement
+JavaScript warning: https://www.alkosto.com/tv/televisores/ver/lg-samsung/60_y_mas_pulgadas/?dir=asc&order=price, line 8793: unreachable code after return statement
+JavaScript warning: https://www.alkosto.com/tv/televisores/ver/lg-samsung/60_y_mas_pulgadas/?dir=asc&order=price, line 8829: unreachable code after return statement
+JavaScript warning: https://www.alkosto.com/tv/televisores/ver/lg-samsung/60_y_mas_pulgadas/?dir=asc&order=price, line 8829: unreachable code after return statement
+JavaScript warning: https://www.alkosto.com/tv/televisores/ver/lg-samsung/60_y_mas_pulgadas/?dir=asc&order=price line 46 > injectedScript, line 42: WebGL context was lost.
